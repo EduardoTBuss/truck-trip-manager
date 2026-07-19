@@ -34,3 +34,7 @@ ios/Flutter/ephemeral/
 .DS_Store
 Thumbs.db
 *.log
+# Compiled binaries -> use GitHub Releases
+apk/
+*.apk
+
